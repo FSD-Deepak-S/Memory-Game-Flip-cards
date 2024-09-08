@@ -1,0 +1,12 @@
+.frontside{
+    display: none;
+    
+    
+}
+.flip{
+    display: block;
+}
+
+.matched{
+    display: block;
+}
